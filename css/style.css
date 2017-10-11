@@ -1,0 +1,108 @@
+.container {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.first-box {
+	background-color: #5dbbca;
+	width: 100px;
+	height: 100px; 
+}
+
+.second-box {
+	background-color: #ffcc5e;
+	width: 100px;
+	height: 100px;
+}
+
+.third-box {
+	background-color: #c2c708;
+	width: 100px;
+	height: 100px;
+	position: relative;
+}
+
+.fourth-box {
+	background-image: url("../images/fullmoon.jpg");
+	width: 100px;
+	height: 100px;
+}
+
+.fifth-box {
+	background-color: #f85f28;
+	width: 100px;
+	height: 100px;
+	position: relative;
+}
+
+.peach {
+	background-color: #ffcc5e;
+	width: 100px;
+	height: 100px;
+}
+
+p {
+	margin: 0 !important;
+}
+
+.third-box-inner {
+	background-color: #c2c708;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+}
+
+.fifth-box-inner {
+	background-color: #f85f28;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+}
+
+.first-box-inner {
+	background-color: #5dbbca;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+    bottom: 0; 
+}
+
+.inner {
+	background-image: url("../images/fullmoon.jpg");
+	width: 50px;
+	height: 50px;
+}
+
+.pic {
+	background-image: url("../images/fullmoon.jpg");
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	right: 0;
+	bottom: 0;
+}
+
+.third-box-two {
+    background-color: #c2c708;
+    width: 50px;
+    height: 50px;
+}
+
+p.name {
+    font-size: 30px;
+    font-family: Arial;
+    color: #C02929;
+    text-align: center;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.small-pic {
+	width: 50px;
+	height: 50px;
+}
